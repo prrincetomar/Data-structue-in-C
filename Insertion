@@ -1,5 +1,6 @@
 #include <stdio.h>
  
+
 void main (){
     int size, ele, pos, i, j;
     int a[10];
