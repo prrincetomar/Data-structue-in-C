@@ -29,6 +29,7 @@ void main (){
        a[i+1] = a[i];
        
     }
+     //Inserting the element at the psoition
      a[pos-1] = ele;
 
     // Printing the inserted array 
@@ -36,8 +37,5 @@ void main (){
     for(i = 0; i < size + 1; i++){
         printf("the value at a[%d] \n", a[i]);
          
-    }
-    
-    
-
+    } 
 }
